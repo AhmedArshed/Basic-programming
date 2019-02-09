@@ -1,3 +1,1 @@
-# Introduction-to-Computing-Assignment
-
-Assignments with there solutions
+# Basic of programming in python and c++
